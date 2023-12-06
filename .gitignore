@@ -1,0 +1,10 @@
+# input files
+*.in
+
+# scripts
+*.ps1
+Makefile
+
+# outputs
+*.out
+*.exe
